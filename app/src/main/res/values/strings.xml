@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fudiee</string>
+
+    <string name="title_activity_auth">AuthActivity</string>
+    <string name="no_gps_notice">We can\'t seem to locate your current location. Please make
+    sure to turn on your GPS Service.</string>
+    <string name="no_gps_btn_text">Okay</string>
+</resources>
